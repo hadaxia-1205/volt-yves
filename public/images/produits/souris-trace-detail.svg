@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="640" viewBox="0 0 800 640" role="img">
+<title>Détail prototype de la molette de la souris Trace.</title>
+<rect width="800" height="640" fill="#171b20"/>
+<g stroke="#2c343d" stroke-width="1" fill="none"><path d="M40 0 V640"/><path d="M80 0 V640"/><path d="M120 0 V640"/><path d="M160 0 V640"/><path d="M200 0 V640"/><path d="M240 0 V640"/><path d="M280 0 V640"/><path d="M320 0 V640"/><path d="M360 0 V640"/><path d="M400 0 V640"/><path d="M440 0 V640"/><path d="M480 0 V640"/><path d="M520 0 V640"/><path d="M560 0 V640"/><path d="M600 0 V640"/><path d="M640 0 V640"/><path d="M680 0 V640"/><path d="M720 0 V640"/><path d="M760 0 V640"/><path d="M0 40 H800"/><path d="M0 80 H800"/><path d="M0 120 H800"/><path d="M0 160 H800"/><path d="M0 200 H800"/><path d="M0 240 H800"/><path d="M0 280 H800"/><path d="M0 320 H800"/><path d="M0 360 H800"/><path d="M0 400 H800"/><path d="M0 440 H800"/><path d="M0 480 H800"/><path d="M0 520 H800"/><path d="M0 560 H800"/><path d="M0 600 H800"/></g>
+<g stroke="#9aa097" stroke-width="1.2" fill="none" opacity="0.75">
+    <path d="M28 28 h20 M28 28 v20"/>
+    <path d="M772 28 h-20 M772 28 v20"/>
+    <path d="M28 612 h20 M28 612 v-20"/>
+    <path d="M772 612 h-20 M772 612 v-20"/>
+  </g>
+<g transform="translate(400 230) scale(1.32) translate(-400 -230)">
+    <path d="M400 140
+      C470 140 530 210 530 320
+      C530 450 480 520 400 520
+      C320 520 270 450 270 320
+      C270 210 330 140 400 140 Z" fill="#232a33" stroke="#e7e2d6" stroke-width="2"/>
+    <path d="M400 150 V250" stroke="#9aa097" stroke-width="2"/>
+    <rect x="384" y="188" width="32" height="58" rx="10" fill="#15191e" stroke="#3d74ff"/>
+    <circle cx="400" cy="360" r="6" fill="#3d74ff"/>
+  </g>
+  <g stroke="#3d74ff" fill="none" stroke-width="1.4">
+    <path d="M64 96 H132 M64 88 V104 M132 88 V104"/>
+    <path d="M668 548 H736 M668 540 V556 M736 540 V556"/>
+  </g>
+</svg>

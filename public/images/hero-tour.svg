@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="640" viewBox="0 0 800 640" role="img">
+<title>Illustration prototype d’une tour PC de l’atelier VOLT CORE, châssis géométrique et arête bleue.</title>
+<rect width="800" height="640" fill="#171b20"/>
+<g stroke="#2c343d" stroke-width="1" fill="none"><path d="M40 0 V640"/><path d="M80 0 V640"/><path d="M120 0 V640"/><path d="M160 0 V640"/><path d="M200 0 V640"/><path d="M240 0 V640"/><path d="M280 0 V640"/><path d="M320 0 V640"/><path d="M360 0 V640"/><path d="M400 0 V640"/><path d="M440 0 V640"/><path d="M480 0 V640"/><path d="M520 0 V640"/><path d="M560 0 V640"/><path d="M600 0 V640"/><path d="M640 0 V640"/><path d="M680 0 V640"/><path d="M720 0 V640"/><path d="M760 0 V640"/><path d="M0 40 H800"/><path d="M0 80 H800"/><path d="M0 120 H800"/><path d="M0 160 H800"/><path d="M0 200 H800"/><path d="M0 240 H800"/><path d="M0 280 H800"/><path d="M0 320 H800"/><path d="M0 360 H800"/><path d="M0 400 H800"/><path d="M0 440 H800"/><path d="M0 480 H800"/><path d="M0 520 H800"/><path d="M0 560 H800"/><path d="M0 600 H800"/></g>
+<g stroke="#9aa097" stroke-width="1.2" fill="none" opacity="0.75">
+    <path d="M28 28 h20 M28 28 v20"/>
+    <path d="M772 28 h-20 M772 28 v20"/>
+    <path d="M28 612 h20 M28 612 v-20"/>
+    <path d="M772 612 h-20 M772 612 v-20"/>
+  </g>
+
+    <polygon points="384.4,176.4 548.2,247.8 431.2,298.8 267.4,227.4" fill="#2a323c" stroke="#e7e2d6" stroke-width="2" stroke-linejoin="round"/>
+    <polygon points="548.2,579.0 431.2,630.0 431.2,298.8 548.2,247.8" fill="#1d242c" stroke="#e7e2d6" stroke-width="2" stroke-linejoin="round"/>
+    <polygon points="384.4,507.6 548.2,579.0 548.2,247.8 384.4,176.4" fill="#232a33" stroke="#e7e2d6" stroke-width="2" stroke-linejoin="round"/>
+    <polygon points="401.6,470.9 531.0,527.4 531.0,304.7 401.6,248.3" fill="#15191e" stroke="#3d74ff" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="406.2" y1="491.4" x2="526.4" y2="543.7" stroke="#9aa097" stroke-width="2"/><line x1="406.2" y1="473.0" x2="526.4" y2="525.3" stroke="#9aa097" stroke-width="2"/><line x1="406.2" y1="454.6" x2="526.4" y2="506.9" stroke="#9aa097" stroke-width="2"/>
+    <line x1="548.2" y1="568.0" x2="548.2" y2="258.8" stroke="#3d74ff" stroke-width="3"/>
+  
+</svg>
